@@ -7,6 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1FPBSp4syWSlrNWiSfIxMYQ8NXdBdn87k
 """
 
-import streamlit as lit
+import streamlit as st
 
 st.write('Hello, *World!* :sunglasses:')
